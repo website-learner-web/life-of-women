@@ -1,0 +1,24 @@
+head{
+    background-color: darkgrey;
+}
+body{
+    background-color: darkgrey;
+}
+header{
+    align-content: center;
+    color: crimson;
+    background-color: darkgray;
+
+}
+h2{
+    color: black;
+    background-color: darkgrey;
+}
+section{
+    width:500px;
+    align-items: center;
+    display: inline;
+}
+nav{
+     display:block;
+}
